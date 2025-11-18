@@ -7,3 +7,30 @@ A Resource Collection of Awesome In Agent Payment and Purchase Resources
 | Stripe | Stripe API https://docs.stripe.com/ | Stripe MCP Server https://docs.stripe.com/mcp |
 | Alipay+ |	Alipay+ Unified Gateway API: The platform for cross-border mobile and in-store QR code payments (including the Multi-Currency Pricing (MCP) feature). |	Alipay+ MCP Server: A specialized server built on the MCP standard to expose core payment operations (Create Payment, Query Status, Refund) to AI assistants. https://github.com/alipay/global-alipayplus-mcp
 | WeChat Pay |	WeChat Pay API (Global/V3): APIs for various payment scenarios (In-App, JSAPI, Native QR Code). Often integrated via a Payment Service Provider (PSP). |	Not directly available/publicized as a native WeChat Pay MCP server. Integrations are usually managed through PSPs who may offer their own custom tools for AI assistants.
+
+
+### Complete List (A-Z Order)
+
+## Alipay+
+Website: 
+MCP: 
+Doc: https://github.com/alipay/global-alipayplus-mcp
+
+## PayPal
+Website: 
+MCP: https://docs.paypal.ai/developer/tools/ai/mcp-quickstart
+Doc: https://github.com/alipay/global-alipayplus-mcp
+
+## Stripe
+
+MCP: https://docs.stripe.com/mcp
+Doc: https://docs.stripe.com
+
+## WeChat Pay
+
+Doc: https://pay.weixin.qq.com/index.php/public/wechatpay_en/
+
+### Contributing
+
+Please contributing via PR request or register you agent payment project via agtm package [agtm](https://aiagenta2z.github.io/agtm)
+
