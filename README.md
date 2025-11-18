@@ -1,6 +1,9 @@
 # awesome-in-agent-payment
 A Resource Collection of Awesome In Agent Payment and Purchase Resources
 
+Find more AI Agent in [Open AI Agent Marketplace](https://github.com/aiagenta2z/ai-agent-marketplace) or [Website](https://deepnlp.org/store/ai-agent)
+
+
 | Brand |	Primary Payment API/Platform | Agent MCP (Model Context Protocol) Integration |
 | ---- | ---- | ----- |
 | PayPal	| Orders API (v2): The core REST API for online payments (Create, Authorize, Capture, Refund). |	PayPal MCP Server: A dedicated protocol/server to integrate PayPal business features (like  invoicing, transaction lookups) with AI Agents/LLMs. https://docs.paypal.ai/developer/tools/ai/mcp-quickstart |
